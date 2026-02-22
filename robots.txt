@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nikhilgangwal.github.io/swastik-agency/sitemap.xml
